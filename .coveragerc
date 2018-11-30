@@ -1,4 +1,2 @@
-[paths]
-source =
-/use/the/codecov/paths/biodemo/
-/so/the/output/is/merged/biodemo/
+
+source = /home/ubuntu/scratch/biodemo_dev/bin/codecov/
