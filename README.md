@@ -1,5 +1,5 @@
 [![travis](https://travis-ci.org/willpitchers/biodemo.svg?branch=master)](https://travis-ci.org/willpitchers/biodemo)
-[![codecov](https://codecov.io/github/willpitchers/biodemo/commit/33d11a7fb50868bdc5e73caeacdea8c2de933a0f)
+[![codecov](https://codecov.io/gh/willpitchers/biodemo/branch/master/graphs/badge.svg)](https://codecov.io/gh/willpitchers/biodemo)
 
 # Overview 
 
