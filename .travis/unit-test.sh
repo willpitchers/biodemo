@@ -4,7 +4,8 @@ set -e
 errors=0
 
 # Run unit tests
-python biodemo/biodemo_test.py || {
+coverage run -m unittest discover biodemo || {
+#python biodemo/biodemo_test.py || {
     echo "'python python/biodemo/biodemo_test.py' failed"
     let errors+=1
 }
